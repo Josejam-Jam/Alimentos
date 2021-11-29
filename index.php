@@ -15,6 +15,8 @@
         echo("<h4>Hola GitHub estamos en el Index.php del Proyecto Alimentos 2021</h4>");
     
     ?>
+
+    <p>Han habido varios cambios desde la última vez</p>
     
     
 </body>
